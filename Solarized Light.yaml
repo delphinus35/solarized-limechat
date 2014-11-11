@@ -5,12 +5,12 @@ log-view:
   nickname-format: '%n: '
   scroller-highlight-color: '#e28964'
 input-text:
-  font-family: 'Menlo'
-  font-size: 13.0
+  font-family: 'Ricty Discord'
+  font-size: 18.0
   background-color: '#eee8d5' # base2
   color: '#657b83'            # base00
 member-list:
-  font-family: 'Menlo'
+  font-family: 'Ricty Discord'
   font-size: 12.0
   color: '#657b83' # base00 
   background-color: '#eee8d5' # base2
@@ -24,7 +24,7 @@ member-list:
       top-color: '#fdf6e3'         # base3
       bottom-color: '#fdf6e3'      # base3
 server-tree:
-  font-family: 'Menlo'
+  font-family: 'Ricty Discord'
   font-size: 12.0
   background-color: '#eee8d5' # base2
   highlight:
