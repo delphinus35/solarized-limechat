@@ -71,3 +71,9 @@ div[type=topic]{ margin-top:1em;}
 @media screen and (max-width:720px){
   body{font-size:12px;line-height:1.6em;}
 }
+
+body.normal .event[type=mode] { display:none;}
+body.normal .event[type=join] { display:none;}
+body.normal .event[type=quit] { display:none;}
+body.normal .event[type=part] { display:none;}
+body.normal .event[type=nick] { display:none;}

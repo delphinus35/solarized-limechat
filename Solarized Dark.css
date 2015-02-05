@@ -165,3 +165,9 @@ div[type=topic] {
     font-size: 12px
   }
 }
+
+body.normal .event[type=mode] { display:none;}
+body.normal .event[type=join] { display:none;}
+body.normal .event[type=quit] { display:none;}
+body.normal .event[type=part] { display:none;}
+body.normal .event[type=nick] { display:none;}
